@@ -1,0 +1,6 @@
+{
+  "name": "SmartTrade Africa",
+  "description": "A highly secure and trusted e-commerce platform incorporating fingerprint biometrics, Trusted Computing (TCP/TPM), simulated payment gateway, and a TAM/UTAUT analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
